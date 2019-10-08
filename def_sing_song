@@ -1,0 +1,15 @@
+def sing_song():
+  print("You may say I'm a dreamer")
+  print("But I'm not the only one")
+  print("I hope some day you'll join us")
+  print("And the world will be as one")
+  
+sing_song()
+
+def mult_two_add_three(number):
+  print(number*2 + 3)
+  
+mult_two_add_three(1)
+mult_two_add_three(5)
+mult_two_add_three(-1)
+mult_two_add_three(0)
